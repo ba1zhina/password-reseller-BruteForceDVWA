@@ -69,7 +69,10 @@ password reseller for the form in the Bruteforce task on the dva.local website
 
     dvwa.local/vulnerabilities/brute/?username=USER&password=PASS&user_token=TOKEN&Login=Login
 
-    **Описание работы системы** 
+    
+**newLogin.py**
+
+**Описание работы системы** 
 
  1. Логика токена:
  
